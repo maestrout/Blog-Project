@@ -16,3 +16,9 @@ body {
     -ms-user-select: none;
     user-select: none;
   }
+
+  p{
+    font-size: 30px;
+    font-style: italic;
+  }
+  
